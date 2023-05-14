@@ -74,8 +74,5 @@ In this lab, you are given an [index.html](index.html) file that contains our we
 - [How to add different fonts to your web page](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts#using_an_online_font_service)
   - [Google Fonts](https://fonts.google.com/) offers free fonts
 
-## Credits
-
-- Coffee mug and biscuit photo by <a href="https://unsplash.com/es/@epicantus?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Daria Nepriakhina 🇺🇦</a> on <a href="https://unsplash.com/s/photos/coffee-and-cookies?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-- Bakers illustration from https://undraw.co/illustrations
-- Cookie images from https://www.girlscouts.org/
+## Source
+Fork at https://github.com/CUNYTechPrep/lab-bootstrap-5.2
